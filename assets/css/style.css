@@ -1,0 +1,16 @@
+
+.jumbotron {
+    background-color: blue;
+    color: white;
+}
+
+#header-one {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
